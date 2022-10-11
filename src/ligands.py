@@ -1,4 +1,3 @@
-import mdtraj as mdt
 import numpy as np
 
 
